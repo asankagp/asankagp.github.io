@@ -105,7 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student."
   location         : "Adelaide, Australia"
-  email            : "asanka (dot) perera (at) mymail.unisa.edu.au"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
