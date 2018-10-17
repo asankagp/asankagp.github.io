@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "Asanka Perera"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student."
+  avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "PhD student"
   location         : "Adelaide, Australia"
   email            :
   links:
